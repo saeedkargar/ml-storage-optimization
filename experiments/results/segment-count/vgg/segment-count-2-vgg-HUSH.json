@@ -1,0 +1,17 @@
+{
+  "HUSH-vgg-2": {
+    "2": {
+      "max_acc": 0.7839999794960022,
+      "min_acc": 0.7229999899864197,
+      "avg_acc": 0.754,
+      "max_loss": 0.871,
+      "min_loss": 0.722,
+      "avg_loss": 0.796,
+      "training_latency": 333.712670666,
+      "retraining_latency": 166.856314667,
+      "prediction_latency": 0.05866888959999983,
+      "root_percent": 0.5,
+      "dataset_name": "cifar10"
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "resnet-cifar10": {
+    "0.1": {
+      "max_acc": 0.7350000143051147,
+      "min_acc": 0.6589999794960022,
+      "avg_acc": 0.693,
+      "max_loss": 1.014,
+      "min_loss": 0.791,
+      "avg_loss": 0.926,
+      "training_latency": 529.5854292089999,
+      "retraining_latency": 132.39633563525,
+      "prediction_latency": 0.1973304249750015,
+      "root_percent": 0.1,
+      "dataset_name": "cifar10"
+    },
+    "0.2": {
+      "max_acc": 0.7440000176429749,
+      "min_acc": 0.6800000071525574,
+      "avg_acc": 0.715,
+      "max_loss": 0.957,
+      "min_loss": 0.778,
+      "avg_loss": 0.846,
+      "training_latency": 524.4595397910001,
+      "retraining_latency": 131.11486210425,
+      "prediction_latency": 0.19964995937500588,
+      "root_percent": 0.2,
+      "dataset_name": "cifar10"
+    },
+    "0.30000000000000004": {
+      "max_acc": 0.7379999756813049,
+      "min_acc": 0.6209999918937683,
+      "avg_acc": 0.703,
+      "max_loss": 1.228,
+      "min_loss": 0.809,
+      "avg_loss": 0.926,
+      "training_latency": 535.7192022500001,
+      "retraining_latency": 133.92977488575002,
+      "prediction_latency": 0.19210543542500316,
+      "root_percent": 0.30000000000000004,
+      "dataset_name": "cifar10"
+    },
+    "0.4": {
+      "max_acc": 0.7839999794960022,
+      "min_acc": 0.6850000023841858,
+      "avg_acc": 0.744,
+      "max_loss": 0.939,
+      "min_loss": 0.709,
+      "avg_loss": 0.801,
+      "training_latency": 544.4788188750001,
+      "retraining_latency": 136.11967566650003,
+      "prediction_latency": 0.19748571042500773,
+      "root_percent": 0.4,
+      "dataset_name": "cifar10"
+    },
+    "0.5": {
+      "max_acc": 0.7630000114440918,
+      "min_acc": 0.6150000095367432,
+      "avg_acc": 0.705,
+      "max_loss": 1.182,
+      "min_loss": 0.772,
+      "avg_loss": 0.937,
+      "training_latency": 564.189099709,
+      "retraining_latency": 141.04724550000003,
+      "prediction_latency": 0.20105132292499092,
+      "root_percent": 0.5,
+      "dataset_name": "cifar10"
+    },
+    "0.6000000000000001": {
+      "max_acc": 0.7839999794960022,
+      "min_acc": 0.6759999990463257,
+      "avg_acc": 0.743,
+      "max_loss": 0.974,
+      "min_loss": 0.761,
+      "avg_loss": 0.821,
+      "training_latency": 572.766804375,
+      "retraining_latency": 143.19167827075,
+      "prediction_latency": 0.20510494064999418,
+      "root_percent": 0.6000000000000001,
+      "dataset_name": "cifar10"
+    },
+    "0.7000000000000001": {
+      "max_acc": 0.8109999895095825,
+      "min_acc": 0.7179999947547913,
+      "avg_acc": 0.778,
+      "max_loss": 0.819,
+      "min_loss": 0.657,
+      "avg_loss": 0.713,
+      "training_latency": 574.1519186250002,
+      "retraining_latency": 143.53795502075013,
+      "prediction_latency": 0.20033876147498406,
+      "root_percent": 0.7000000000000001,
+      "dataset_name": "cifar10"
+    },
+    "0.8": {
+      "max_acc": 0.7919999957084656,
+      "min_acc": 0.7160000205039978,
+      "avg_acc": 0.766,
+      "max_loss": 0.906,
+      "min_loss": 0.694,
+      "avg_loss": 0.766,
+      "training_latency": 569.1909417920006,
+      "retraining_latency": 142.29770445824977,
+      "prediction_latency": 0.20664404789997662,
+      "root_percent": 0.8,
+      "dataset_name": "cifar10"
+    },
+    "0.9": {
+      "max_acc": 0.8130000233650208,
+      "min_acc": 0.47600001096725464,
+      "avg_acc": 0.694,
+      "max_loss": 1.469,
+      "min_loss": 0.676,
+      "avg_loss": 0.925,
+      "training_latency": 588.0782247090001,
+      "retraining_latency": 147.01952317699966,
+      "prediction_latency": 0.19630692290002116,
+      "root_percent": 0.9,
+      "dataset_name": "cifar10"
+    }
+  }
+}

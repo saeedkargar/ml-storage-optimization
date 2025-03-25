@@ -1,0 +1,17 @@
+{
+  "HUSH_DP-mnist-basic-15": {
+    "15": {
+      "max_acc": 0.6819999814033508,
+      "min_acc": 0.5590000152587891,
+      "avg_acc": 0.617,
+      "max_loss": 1.504,
+      "min_loss": 1.244,
+      "avg_loss": 1.34,
+      "training_latency": 213.058844625,
+      "retraining_latency": 14.203916469400001,
+      "prediction_latency": 0.43302648440000063,
+      "root_percent": 0.25,
+      "dataset_name": "mnist"
+    }
+  }
+}

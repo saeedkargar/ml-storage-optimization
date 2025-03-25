@@ -1,0 +1,57 @@
+{
+  "mnist-basic-mnist": {
+    
+    "0.2": {
+      "max_acc": 0.9539999961853027,
+      "min_acc": 0.9520000219345093,
+      "avg_acc": 0.953,
+      "max_loss": 0.161,
+      "min_loss": 0.157,
+      "avg_loss": 0.159,
+      "training_latency": 74.144688375,
+      "retraining_latency": 18.53616260425001,
+      "prediction_latency": 0.04249474062500127,
+      "root_percent": 0.2,
+      "dataset_name": "mnist"
+    },
+    "0.5": {
+      "max_acc": 0.972000002861023,
+      "min_acc": 0.968999981880188,
+      "avg_acc": 0.97,
+      "max_loss": 0.112,
+      "min_loss": 0.103,
+      "avg_loss": 0.106,
+      "training_latency": 75.09364425000001,
+      "retraining_latency": 18.773401104499996,
+      "prediction_latency": 0.04259680834999813,
+      "root_percent": 0.5,
+      "dataset_name": "mnist"
+    },
+    "0.7000000000000001": {
+      "max_acc": 0.9729999899864197,
+      "min_acc": 0.8799999952316284,
+      "avg_acc": 0.931,
+      "max_loss": 0.354,
+      "min_loss": 0.095,
+      "avg_loss": 0.227,
+      "training_latency": 79.205989542,
+      "retraining_latency": 19.80148404175,
+      "prediction_latency": 0.0447492979499998,
+      "root_percent": 0.7000000000000001,
+      "dataset_name": "mnist"
+    },
+    "0.8": {
+      "max_acc": 0.972000002861023,
+      "min_acc": 0.8610000014305115,
+      "avg_acc": 0.935,
+      "max_loss": 0.387,
+      "min_loss": 0.102,
+      "avg_loss": 0.222,
+      "training_latency": 76.809176084,
+      "retraining_latency": 19.7022836875,
+      "prediction_latency": 0.04435600935000252,
+      "root_percent": 0.8,
+      "dataset_name": "mnist"
+    }
+  }
+}

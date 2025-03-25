@@ -1,0 +1,17 @@
+{
+  "HUSH-mnist-basic-11": {
+    "11": {
+      "max_acc": 0.9490000009536743,
+      "min_acc": 0.9319999814033508,
+      "avg_acc": 0.945,
+      "max_loss": 0.239,
+      "min_loss": 0.174,
+      "avg_loss": 0.186,
+      "training_latency": 148.236450625,
+      "retraining_latency": 13.47603411736364,
+      "prediction_latency": 0.24031003017500224,
+      "root_percent": 0.25,
+      "dataset_name": "mnist"
+    }
+  }
+}
